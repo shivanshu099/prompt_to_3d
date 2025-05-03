@@ -11,5 +11,11 @@ pip install torch diffusers numpy pillow matplotlib
 then run the image_genrate.py
 estimated time for 3d image genrate is approx 40 minutes
 
+ 
+## ----------------------------------------- ##
+![App Screenshot](https://github.com/shivanshu099/prompt_to_3d/blob/main/prompt_to_3d_image.png)
+
+
+
 
 
