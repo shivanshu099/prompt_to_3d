@@ -1,4 +1,5 @@
 ﻿# prompt_to_3d
+ project that generate 3D images from text prompts using the Shape-E
 # how i done the project
 for that we are using diffusers library to generate 3d images from text prompt using shap-e model.
 # for  runing the project image_genrate.py
